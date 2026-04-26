@@ -1,2 +1,2 @@
-# Khai báo file thực thi độc lập cho bài LIN
+# Declare standalone executable file for LIN exercise
 add_executable(LIN_App main.c)
